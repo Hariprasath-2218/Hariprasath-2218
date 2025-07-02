@@ -21,30 +21,29 @@
 
 
 ---
+<!-- 🧑‍💻 About Me Section -->
+<h2 align="left">🧑‍💻 About Me</h2>
+<img align="right" width="300" height="210" src="https://gifdb.com/images/thumb/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
 
-<!-- About Me section with responsive layout -->
 <p align="left">
-
-## 🧑‍💻 About Me
-
-- 🔭 Explore my work on my <a href="https://hariprasath-mern-stack-developer.vercel.app/">portfolio</a>  
-- 🌱 Currently mastering advanced concepts in the <strong>MERN stack</strong>  
-- 🎯 Passionate Full-Stack Developer with focus on <strong>MongoDB, Express.js, React.js, and Node.js</strong>  
-- 💡 Always exploring modern JavaScript tools and optimizing frontend performance  
-- 🧠 Dedicated to building full-stack apps with clean architecture and seamless UX  
-- ✨ I value <strong>clean code</strong>, <strong>scalable systems</strong>, and <strong>beautiful UIs</strong>  
-- 🌏 Fun fact: I can speak Japanese!
-
+<br>
+🔭 Explore my work on my <a href="https://hariprasath-mern-stack-developer.vercel.app/">portfolio</a>  
+<br>🌱 Currently mastering advanced concepts in the <strong>MERN stack</strong>  
+<br>🎯 Passionate Full-Stack Developer focused on <strong>MongoDB, Express.js, React.js, and Node.js</strong>  
+<br>💡 Always exploring modern JavaScript tools and improving frontend performance  
+<br>🧠 Dedicated to building full-stack apps with clean architecture and seamless UX  
+<br>✨ I value <strong>clean code</strong>, <strong>scalable systems</strong>, and <strong>beautiful UIs</strong>  
+<br>⚡ Fun fact: I can speak Japanese!
+<br>
 </p>
-
-<p align="center">
+<!-- 👨‍💻 GIF Section -->
+<!-- <p align="center">
   <img 
-    src="https://media.gifdb.com/2023/8/12/animated-man-computer-coding-nae6mec378lsg1i3.gif" 
-    alt="Animated Developer Coding" 
-    width="400"
-    style="max-width: 100%; border-radius: 12px;"
+    src="https://gifdb.com/images/thumb/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" 
+    alt="Programming GIF" 
+    width="350"
   />
-</p>
+</p> -->
 
 
 ---
@@ -119,5 +118,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
 </p>
