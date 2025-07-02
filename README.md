@@ -22,34 +22,29 @@
 
 ---
 
-<div align="center">
+<!-- About Me section with responsive layout -->
+<p align="left">
 
-<table style="width:100%; display: block;">
-  <tr style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-    <!-- Left Column: About Me -->
-    <td style="flex: 1; min-width: 300px; padding: 10px; max-width: 600px;">
-      <h2>🧑‍💻 About Me</h2>
-      <ul align="left">
-        <li>🔭 Explore my work on my <a href="https://hariprasath-mern-stack-developer.vercel.app/">portfolio</a></li>
-        <li>🌱 Currently mastering advanced concepts in the <strong>MERN stack</strong></li>
-        <li>🎯 Passionate Full-Stack Developer with focus on <strong>MongoDB, Express.js, React.js, and Node.js</strong></li>
-        <li>💡 Always exploring modern JavaScript tools and optimizing frontend performance</li>
-        <li>🧠 Dedicated to building full-stack apps with clean architecture and seamless UX</li>
-        <li>✨ I value <strong>clean code</strong>, <strong>scalable systems</strong>, and <strong>beautiful UIs</strong></li>
-        <li>🌏 Fun fact: I can speak Japanese!</li>
-      </ul>
-    </td>
-    <td style="flex: 1; min-width: 300px; padding: 10px; text-align: center;">
-      <img 
-        src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" 
-        alt="Coding GIF" 
-        style="max-width: 100%; height: auto; border-radius: 12px;" 
-      />
-    </td>
-  </tr>
-</table>
+## 🧑‍💻 About Me
 
-</div>
+- 🔭 Explore my work on my <a href="https://hariprasath-mern-stack-developer.vercel.app/">portfolio</a>  
+- 🌱 Currently mastering advanced concepts in the <strong>MERN stack</strong>  
+- 🎯 Passionate Full-Stack Developer with focus on <strong>MongoDB, Express.js, React.js, and Node.js</strong>  
+- 💡 Always exploring modern JavaScript tools and optimizing frontend performance  
+- 🧠 Dedicated to building full-stack apps with clean architecture and seamless UX  
+- ✨ I value <strong>clean code</strong>, <strong>scalable systems</strong>, and <strong>beautiful UIs</strong>  
+- 🌏 Fun fact: I can speak Japanese!
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.gifdb.com/2023/8/12/animated-man-computer-coding-nae6mec378lsg1i3.gif" 
+    alt="Animated Developer Coding" 
+    width="400"
+    style="max-width: 100%; border-radius: 12px;"
+  />
+</p>
 
 
 ---
