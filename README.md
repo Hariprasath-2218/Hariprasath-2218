@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="70"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="70" style="background-color:#000; border-radius:10px; padding:6px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" height="70" style="background-color:#000; border-radius:10px; padding:6px;" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="ReactJS" height="70"/>
   &nbsp;&nbsp;
