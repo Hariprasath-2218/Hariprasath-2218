@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Hariprasath+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Passionate+about+Building+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Hariprasath+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Passionate+about+Building+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 ---
 
