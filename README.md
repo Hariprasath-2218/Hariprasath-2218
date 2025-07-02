@@ -35,7 +35,7 @@
     <td align="center"><img src="https://img.icons8.com/color/96/000000/mongodb.png" width="48" /><br>MongoDB</td>
     <td align="center"><img src="https://img.icons8.com/color/48/mongoose.png" width="48" /><br>Mongoose</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" /><br>Redux</td>
-    <td align="center"><img width="45" height="45" src="https://img.icons8.com/color/48/firebase.png" /><br>Firebase<br>Basics</td>
+    <td align="center"><img width="45" height="45" src="https://img.icons8.com/color/48/firebase.png" /><br>Firebase<br>(Basics)</td>
     <td align="center"><img src="https://img.icons8.com/color/96/000000/java-web-token.png" width="48" /><br>JWT</td>
   </tr>
   <tr>
@@ -60,30 +60,13 @@
   </tr>
 </table>
 
-
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="70"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" height="70" style="background-color:#000; border-radius:10px; padding:6px;" />
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="ReactJS" height="70"/>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="NodeJS" height="70"/>
-</p>
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,git,github,vscode" alt="Other Skills" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhan-785&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Madhan-785&theme=radical&hide_border=false&border_radius=10" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath-2218&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180px" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath-2218&theme=radical&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
