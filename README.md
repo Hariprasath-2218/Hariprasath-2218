@@ -3,7 +3,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=50&pause=1000&color=ADD8E6&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Hariprasath+%F0%9F%91%8B;MERN+Stack+Developer;Full-Stack+Web+Engineer;Building+Clean+User+Interfaces;Writing+Scalable+Backend+Code;Focused+on+Modern+Web+Development" 
+    src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Hariprasath+%F0%9F%91%8B;MERN+Stack+Developer;Full-Stack+Web+Engineer;Building+Clean+User+Interfaces;Writing+Scalable+Backend+Code;Focused+on+Modern+Web+Development" 
     alt="Typing Animation"
     style="width: 100%; max-width: 1000px; height: auto;"
   >
@@ -19,17 +19,38 @@
   <a href="https://www.linkedin.com/in/hari-prasath-4072362a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
+
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-- 🔭 Here's my [portfolio](https://hariprasath-mern-stack-developer.vercel.app/)                                                 
-- 🌱 I’m currently learning and mastering advanced concepts in the MERN stack  
-- 🎯 A passionate Full-Stack Developer specializing in the **MERN stack**  
-- 💡 Always curious to explore modern JavaScript tools and improve frontend performance  
-- 🧠 Focused on building full-stack applications using **MongoDB, Express.js, React.js, and Node.js**
-- ⚡ I value **clean code**, **scalable architecture**, and **beautiful UI**
-- ⚡ Fun fact: I know Japanese.
+<table style="width:100%; display: block;">
+  <tr style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+    <!-- Left Column: About Me -->
+    <td style="flex: 1; min-width: 300px; padding: 10px; max-width: 600px;">
+      <h2>🧑‍💻 About Me</h2>
+      <ul align="left">
+        <li>🔭 Explore my work on my <a href="https://hariprasath-mern-stack-developer.vercel.app/">portfolio</a></li>
+        <li>🌱 Currently mastering advanced concepts in the <strong>MERN stack</strong></li>
+        <li>🎯 Passionate Full-Stack Developer with focus on <strong>MongoDB, Express.js, React.js, and Node.js</strong></li>
+        <li>💡 Always exploring modern JavaScript tools and optimizing frontend performance</li>
+        <li>🧠 Dedicated to building full-stack apps with clean architecture and seamless UX</li>
+        <li>✨ I value <strong>clean code</strong>, <strong>scalable systems</strong>, and <strong>beautiful UIs</strong></li>
+        <li>🌏 Fun fact: I can speak Japanese!</li>
+      </ul>
+    </td>
+    <td style="flex: 1; min-width: 300px; padding: 10px; text-align: center;">
+      <img 
+        src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" 
+        alt="Coding GIF" 
+        style="max-width: 100%; height: auto; border-radius: 12px;" 
+      />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
