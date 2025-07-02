@@ -18,10 +18,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 A passionate Full-Stack Developer specializing in the **MERN stack**
-- 💡 Always curious to explore new technologies and improve UI/UX
-- 🧠 Currently learning **DevOps** and **system design**
+- 🔭 Here's my [portfolio](https://hariprasath-mern-stack-developer.vercel.app/)                                                 
+- 🌱 I’m currently learning and mastering advanced concepts in the MERN stack  
+- 🎯 A passionate Full-Stack Developer specializing in the **MERN stack**  
+- 💡 Always curious to explore modern JavaScript tools and improve frontend performance  
+- 🧠 Focused on building full-stack applications using **MongoDB, Express.js, React.js, and Node.js**
 - ⚡ I value **clean code**, **scalable architecture**, and **beautiful UI**
+- ⚡ Fun fact: I know Japanese.
 
 ---
 
@@ -72,6 +75,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath-2218&layout=compact&theme=radical&hide_border=false&border_radius=10" />
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariprasath-2218&bg_color=141321&color=f8d847&line=fe428e&point=99e5e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
