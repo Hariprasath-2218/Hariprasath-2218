@@ -30,12 +30,13 @@
 <p align="center">
   <img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="MongoDB" height="80"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/100/000000/express-js.png" alt="ExpressJS" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" height="80" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/100/000000/react-native.png" alt="ReactJS" height="80"/>
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/100/000000/nodejs.png" alt="NodeJS" height="80"/>
 </p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,git,github,vscode" alt="Other Skills" />
