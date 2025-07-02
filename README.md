@@ -7,11 +7,11 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://github.com/Madhan-785"><img src="https://img.shields.io/github/followers/Madhan-785?label=Follow&style=social" /></a>
+  <a href="https://github.com/Hariprasath-2218"><img src="https://img.shields.io/github/followers/Madhan-785?label=Follow&style=social" /></a>
   &nbsp;
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="ailearner2218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hari-prasath-4072362a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,15 +79,20 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariprasath-2218&bg_color=141321&color=f8d847&line=fe428e&point=99e5e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+## 📈 LeetCode Stats
+
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/Hariprasath-2218?theme=radical&font=NTR&ext=contest"/>
+</p>
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="ailearner2218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hari-prasath-4072362a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/Madhan-785"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Hariprasath-2218"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
