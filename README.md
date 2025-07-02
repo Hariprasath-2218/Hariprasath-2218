@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-785&layout=compact&theme=radical&hide_border=false&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath-2218&layout=compact&theme=radical&hide_border=false&border_radius=10" />
 </p>
 
 ---
