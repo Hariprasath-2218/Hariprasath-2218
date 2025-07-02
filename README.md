@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath-2218&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180px" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath-2218&theme=radical&border_radius=10" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath-2218&theme=radical&border_radius=10" height="180px"/></a>
 </p>
 
 <p align="center">
