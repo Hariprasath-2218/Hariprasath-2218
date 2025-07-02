@@ -28,13 +28,13 @@
 ## 🚀 Tech Stack (MERN)
 
 <p align="center">
-  <img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="MongoDB" height="80"/>
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" height="70"/>
   &nbsp;&nbsp;
-  <img src="https://tse4.mm.bing.net/th/id/OIP.NfG3zjysjSA6rCfouj46vgHaEA?pid=Api&P=0&h=180" alt="ExpressJS" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="70" style="background-color:#000; border-radius:10px; padding:6px;" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/100/000000/react-native.png" alt="ReactJS" height="80"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="ReactJS" height="70"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/100/000000/nodejs.png" alt="NodeJS" height="80"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="NodeJS" height="70"/>
 </p>
 
 
