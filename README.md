@@ -63,21 +63,21 @@
   </tr>
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TypeScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /><br>Python</td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/c-programming.png" width="48" /><br>C</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><br>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" /><br>Bootstrap</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/figma--v1.png" width="48" /><br>Figma</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" /><br>REST API</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" width="55" /><br>Redis</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><br>Kubernetes</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" /><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VS Code</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>PostgreSQL</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" /><br>MySQL</td>
   </tr>
