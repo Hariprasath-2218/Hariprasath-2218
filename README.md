@@ -23,7 +23,7 @@
 ---
 <!-- 🧑‍💻 About Me Section -->
 <h2 align="left">🧑‍💻 About Me</h2>
-<img align="right" width="320" height="210" src="https://gifdb.com/images/thumb/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+<img align="right" width="340" height="250" src="https://gifdb.com/images/thumb/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
 
 <p align="left">
 <br>
