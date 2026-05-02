@@ -3,7 +3,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Hariprasath+%F0%9F%91%8B;MERN+Stack+Developer;Full-Stack+Web+Engineer;Building+Clean+User+Interfaces;Writing+Scalable+Backend+Code;Focused+on+Modern+Web+Development" 
+    src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Hariprasath+%F0%9F%91%8B;AI+Developer;Full-Stack+Web+Engineer;Building+Agents+With+Interfaces;Writing+Scalable+Automation+Code;Focused+on+AI+Development" 
     alt="Typing Animation"
     style="width: 100%; max-width: 1000px; height: auto;"
   >
